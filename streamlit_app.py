@@ -1,10 +1,8 @@
 import streamlit
 
-streamlit.title('hello from the other side')
+streamlit.title('my parent\'s new healthy dinner')
 
-streamlit.header('hello from the other side')
-
-streamlit.text('hello from the other side')
-
-streamlit.text('hello from the other side')
-
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
